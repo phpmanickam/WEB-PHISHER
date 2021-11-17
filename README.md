@@ -32,13 +32,13 @@ This tool is only for educational purpose. If you use this tool for other purpos
 * `ls`
 * `php -S localhost:1234`
 ```
-# Open new session in termux 
+## Open new session in termux:
 
 * ex:(start the ngrok server with 1234 port)
 * Now open ngrok website and crete a account 
 * Download ngrok in your terminal
-* `cd`
-* `./ngrok http 1234`
+* cd
+* ./ngrok http 1234
 ```
 ## One line cammand 
 
