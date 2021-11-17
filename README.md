@@ -47,6 +47,10 @@ This tool is only for educational purpose. If you use this tool for other purpos
 
 * cd && ./ngrok http 1234
 
+## Youtube vedio coming soon ..... 
+
+## follow me on instagram <a href="https://www.instagram.com/web_phisher/?utm_medium=copy_link">INSTAGRAM</a>
+
 
 
 
