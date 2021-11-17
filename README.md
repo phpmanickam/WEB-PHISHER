@@ -42,11 +42,11 @@ This tool is only for educational purpose. If you use this tool for other purpos
 ```
 ## One line cammand 
 
-* pkg install git &&  pkg install php && pkg install zip && git clone https://github.com/phpmanickam/WEB-PHISHER.git && cd WEB-PHISHER && unzip WEB-PHISHER.zip && ls && php -S localhost:1234 
+* `pkg install git &&  pkg install php && pkg install zip && git clone https://github.com/phpmanickam/WEB-PHISHER.git && cd WEB-PHISHER && unzip WEB-PHISHER.zip && ls && php -S localhost:1234` 
 
 [+]-- open another section
 
-* cd && ./ngrok http 1234
+* `cd && ./ngrok http 1234`
 
 ## Youtube vedio coming soon ..... 
 
