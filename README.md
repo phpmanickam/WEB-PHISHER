@@ -8,7 +8,7 @@ This tool is only for educational purpose. If you use this tool for other purpos
 *  20+ advanced phishing pages !
 *  3 Port Forwarding Option !
 *  No link issues, timing !
-*  server hosting available !
+*  Server hosting available !
 *  Easy for Beginners to advanced !
 
 # REQUIREMENTS :
