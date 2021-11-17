@@ -34,10 +34,10 @@ This tool is only for educational purpose. If you use this tool for other purpos
 ```
 [+]-- Open new session in termux and start the ngrok server with 1234 port
 
-* `Now open ngrok website and crete a account `
-* `Download ngrok in your terminal`
-* `cd`
-* `./ngrok http 1234`
+* Now open ngrok website and crete a account 
+* Download ngrok in your terminal
+* cd
+* ./ngrok http 1234
 ```
 ## One line cammand 
 
