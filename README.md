@@ -5,7 +5,7 @@ THE ADVANCED WEB-PHISHING TOOL
 This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.
 
 ## FEATURES :
-*  20+ uptodate pages !
+*  20+ advanced phishing pages !
 *  3 Port Forwarding Option !
 *  No link issues, timing !
 *  server hosting available !
@@ -49,7 +49,7 @@ This tool is only for educational purpose. If you use this tool for other purpos
 
 ## Youtube vedio coming soon ..... 
 
-## follow me on instagram <a href="https://www.instagram.com/web_phisher/?utm_medium=copy_link">INSTAGRAM</a>
+## Follow me on <a href="https://www.instagram.com/web_phisher/?utm_medium=copy_link">INSTAGRAM</a>
 
 
 
