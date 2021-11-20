@@ -52,7 +52,8 @@ This tool is only for educational purpose. If you use this tool for other purpos
 
 ## Youtube vedio coming soon ..... 
 
-## Follow me on <a href="https://www.instagram.com/web_phisher/?utm_medium=copy_link">INSTAGRAM</a>
+## Follow me on <a href="https://www.instagram.com/web_phisher/?utm_medium=copy_link">INSTAGRAM</a> and join on <a href="https://t.me/WEB_PHISHER">TELEGRAM</a>
+
 
 
 
