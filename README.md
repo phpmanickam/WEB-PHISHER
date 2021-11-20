@@ -48,6 +48,8 @@ This tool is only for educational purpose. If you use this tool for other purpos
 
 * `cd && ./ngrok http 1234`
 
+## WEB-PHISHER TOOL LOGIN PASSWORD : WEB-PHISHER
+
 ## Youtube vedio coming soon ..... 
 
 ## Follow me on <a href="https://www.instagram.com/web_phisher/?utm_medium=copy_link">INSTAGRAM</a>
